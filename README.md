@@ -1,4 +1,4 @@
-# nervous-gitcoin-hackathon-task-4
+# Gitcoin: 4) Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
 Issue An SUDT Token On Layer 1 And Deposit It To Layer 2
 Gitcoin bounty: https://gitcoin.co/issue/nervosnetwork/grants/5/
 
